@@ -113,7 +113,7 @@ Desse modo, uma aplicação de streaming de músicas pode combinar elementos de 
 ---
 **Créditos :** 
 
--  Autor : [Reed Barger](https://www.freecodecamp.org/news/author/reedbarger/) | Fonte: [freecodecamp](https://www.freecodecamp.org/portuguese/news/7-projetos-em-react-para-voce-criar/)
+-  **Autor** : [Reed Barger](https://www.freecodecamp.org/news/author/reedbarger/) | **Tradutor** : [Daniel Rosa](https://www.freecodecamp.org/portuguese/news/author/daniel/) | **Fonte** : [freecodecamp](https://www.freecodecamp.org/portuguese/news/7-projetos-em-react-para-voce-criar/)
 
 --- 
 **Licença** 
